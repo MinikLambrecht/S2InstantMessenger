@@ -1,8 +1,8 @@
 # S2 Instant Messenger
 
-This features a MVVM Based C# WPF IM Client w/Server. As a whole, this is just the start and will require a lot of work if it should be finished. But as is i would say it's a very basic version or a start in the Messenger world. It has a big feature list for the future if the development will continue, some examples could be: Login w/Password & Hashing for security, Database storage, Chat Server Rooms etc.
+This features an MVVM Based WPF IM Client w/Server. As a whole, this is just the start and will require a lot of work if it should be finished. But as is I would say it's a very basic version or a start in the Messenger world. It has a big feature list for the future if the development will continue, some examples could be: Login w/Password & Hashing for security, Database storage, Chat Server Rooms, etc.
 
-Develoopment Time ETA: Roughly 4 days.
+Development Time: Roughly **4** days.
 
 ## Getting Started
 
