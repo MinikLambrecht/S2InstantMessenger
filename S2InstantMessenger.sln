@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2_IM_Server", "S2_IM_Server\S2_IM_Server.csproj", "{AB66897A-8BE1-498F-91B5-FEC520510DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2_IM_Client", "S2_IM_Client\S2_IM_Client.csproj", "{F9309A69-22D4-4597-904F-B2030BC67457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB66897A-8BE1-498F-91B5-FEC520510DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB66897A-8BE1-498F-91B5-FEC520510DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB66897A-8BE1-498F-91B5-FEC520510DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB66897A-8BE1-498F-91B5-FEC520510DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9309A69-22D4-4597-904F-B2030BC67457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9309A69-22D4-4597-904F-B2030BC67457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9309A69-22D4-4597-904F-B2030BC67457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9309A69-22D4-4597-904F-B2030BC67457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A602F78-9319-4F64-B946-C4F930C57AAC}
+	EndGlobalSection
+EndGlobal
