@@ -84,9 +84,9 @@
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="Pyrocorelib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Pyrocorelib_Guest, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>Resources\Pyrocorelib.dll</HintPath>
+      <HintPath>Resources\Pyrocorelib_Guest.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
@@ -250,7 +250,7 @@
     <Resource Include="Imgs\blank.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Pyrocorelib.dll" />
+    <None Include="Resources\Pyrocorelib_Guest.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
