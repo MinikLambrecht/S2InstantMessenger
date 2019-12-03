@@ -25,6 +25,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 That's it.
 
+### How To Use It
+
+ * **Server**
+ You'll find the server under IM_Server/Bin/Debug/S2_IM_Server.exe or IM_Server/Bin/Release/S2_IM_Server.exe,
+ When that's open then you're ready to fill it with clients.
+ 
+ **Client**
+ You'll find the client under IM_Client/bin/Debug/S2_IM_Client.exe or IM_Client/bin/Release/S2_IM_Client.exe,
+ you can open as many as you want.
+
 ## Built With
 
 * Visual Studio
