@@ -59,5 +59,15 @@ namespace S2_IM_Client.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] Pyrocorelib {
+            get {
+                object obj = ResourceManager.GetObject("Pyrocorelib", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
     }
 }
