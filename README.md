@@ -9,7 +9,7 @@ Development Time: Roughly **4** days.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### MySQL Database Access
-**Username**: S2Guest
+**Username**: S2Guest  
 **Password**: 4?4J?fYr@svA--*$
 
 ### Prerequisites
